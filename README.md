@@ -1,4 +1,6 @@
 **Đề bài:** 
+
+I. Phần 1:
 Tìm hiểu quá trình vận chuyển hàng hóa (parcel) của Ryo kể từ lúc nhận đơn hàng (First mile) cho tới lúc giao hàng/trả hàng thành công (Last mile), tính toán các KPI của trạm (hub), tài xế (driver), và hiệu quả giao hàng đối với shop bán hàng (shipper). 
 Thực hiện phân tích về xu hướng mua sắm, theo dõi tiến độ và tình trạng đơn hàng, và các vấn đề liên quan đến hiệu suất giao hàng của Ryo nhằm giúp công ty tìm ra những vấn đề tồn đọng và rủi ro liên quan đến quá trình giao hàng, đồng thời đưa ra các đề xuất để cải thiện chiến lược vận chuyển, phân phối nguồn lực và nâng cao hiệu suất doanh nghiệp.
 
@@ -29,3 +31,17 @@ Thực hiện phân tích về xu hướng mua sắm, theo dõi tiến độ và
 - Hãy phân tích xu hướng hàng hóa (parcels) mà Ryo nhận được trong thời gian qua để Phòng Kinh doanh nắm được xu hướng từ đó tìm kiếm thêm khách hàng sử dụng dịch vụ của Ryo.
 - Phân tích rõ sản phẩm (items) tập trung nhiều tại từng khu vực cụ thể từ đó đưa ra đề xuất tập trung phát triển mở rộng khu vực kinh doanh.
 - Phân loại nhóm khách hàng, mô tả đặc điểm của họ và đề xuất thêm chiến lược mở rộng thị trường khác.
+
+II. Phần 2:
+Yêu cầu: Trong thời gian sắp tới, Ryo chuẩn bị cho chiến lược mở rộng thị trường cả chiều sâu lẫn chiều rộng (có thể mở thêm trạm, gia tăng liên kết với các sàn TMĐT để mở rộng khách hàng). Dựa vào dữ liệu đã cung cấp cùng với bảng giá mới được thiết kế cho năm 2023, hãy giúp Ryo có cái nhìn rõ hơn về bối cảnh tương lai để chuẩn bị tốt nhất.
+Ryo vừa ký hợp đồng với một vài đối tác tiềm năng, có thể thúc đẩy tăng trưởng 71% lượng đơn hàng ngày vào đầu năm 2023.
+
+Với năng lực hiện tại của các trạm:
+- Mỗi tài xế có thể xử lý giao trả hàng trung bình khoảng 40 đơn hàng/ngày.
+- Mỗi trạm chỉ nên có khoảng 7 nhân sự, nếu trạm quá tải và thừa nhân sự, cần phải mở thêm trạm tại khu vực khác.
+- Trạm có thể hoạt động từ 8h sáng đến 8h tối.
+
+Với bảng giá mới được cung cấp đính kèm trong dữ liệu.
+1. Hãy dự báo sản lượng và doanh thu năm 2023 theo mức độ chính xác gần nhất mà phương pháp bạn chọn có thể cung cấp được (không giới hạn thời gian là số tuần, tháng hay thời gian cao điểm). Giải thích sự lựa chọn của mình để Ryo tin tưởng thực hiện việc mở rộng thị trường phù hợp.
+2. Theo dự báo của bạn, với số lượng trạm hiện tại của Ryo thì mỗi trạm nên có tối thiểu bao nhiêu tài xế để xử lý được đơn hàng gia tăng trong thời gian tới? Nếu trạm đã quá tải và cần đóng hoặc mở thêm trạm thì khu vực nào là cần ưu tiên thực hiện và tại sao? Tối ưu hóa mạng lưới trạm giao hàng để tối ưu hiệu suất hoạt động của công ty.
+3. Hãy trình bày những rủi ro tiềm ẩn có thể xuất hiện trong chiến lược mở rộng thị trường và trạm giao nhận của Ryo, đồng thời đề xuất chiến lược giảm thiểu rủi ro.
